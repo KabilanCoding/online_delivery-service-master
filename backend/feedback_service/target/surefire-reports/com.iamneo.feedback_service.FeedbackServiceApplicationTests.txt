@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.iamneo.feedback_service.FeedbackServiceApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 7.325 s - in com.iamneo.feedback_service.FeedbackServiceApplicationTests
